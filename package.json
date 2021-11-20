@@ -1,6 +1,6 @@
 {
   "name": "demo-project-travel",
-  "homepage": "https://simplecray.github.io/demo-project-travel/",
+  "homepage": "./",
   "version": "1.10.0",
   "description": "Khánh Sơn Travel. Coded by Hyper Coder",
   "private": true,
